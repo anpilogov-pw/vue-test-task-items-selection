@@ -1,0 +1,15 @@
+@use './fonts.scss';
+@use './reset.scss';
+@use './animations.scss';
+
+body {
+  font-family:
+    'Inter',
+    sans-serif,
+    system-ui,
+    -apple-system,
+    sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 16px;
+}
