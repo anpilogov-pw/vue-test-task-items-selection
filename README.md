@@ -86,6 +86,9 @@ src/
  ├─ stores/         # Pinia store
  ├─ styles/         # SCSS
  ├─ types/          # TypeScript типы
+ ├─ constants/      # Константы и конфигурации
+ ├─ data/           # Моковые данные
+ ├─ i18n/           # ЛОкализция (не полноценная, только для чистоты в коде)
  ├─ App.vue
  └─ main.ts
 ```
